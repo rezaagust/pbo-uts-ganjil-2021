@@ -2,11 +2,11 @@
 
 ## Tujuan
 
-* Mampu membenarkan error dalam `function`, `variabel`, `object` JavaScript
+* Mampu membenarkan error dalam `function`, `variabel`, `object`, `loop` JavaScript
 
 ## Instruksi
 
-1. Terdapat berbagai fungsi untuk menjalankan kalkulator yang masih error. Harap dibenarkan.
+1. Terdapat berbagai fungsi untuk menjalankan kalkulator yang masih error. Harap dibenarkan, terutama Typo.
 
 ## Hasil
 
